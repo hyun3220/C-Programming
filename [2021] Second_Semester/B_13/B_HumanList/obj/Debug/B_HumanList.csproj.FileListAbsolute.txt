@@ -1,0 +1,14 @@
+H:\2021_CS\C#_Work\[2021] Second_Semester\B_13\B_HumanList\bin\Debug\B_HumanList.exe.config
+H:\2021_CS\C#_Work\[2021] Second_Semester\B_13\B_HumanList\bin\Debug\B_HumanList.exe
+H:\2021_CS\C#_Work\[2021] Second_Semester\B_13\B_HumanList\bin\Debug\B_HumanList.pdb
+H:\2021_CS\C#_Work\[2021] Second_Semester\B_13\B_HumanList\obj\Debug\B_HumanList.csprojAssemblyReference.cache
+H:\2021_CS\C#_Work\[2021] Second_Semester\B_13\B_HumanList\obj\Debug\B_HumanList.Form1.resources
+H:\2021_CS\C#_Work\[2021] Second_Semester\B_13\B_HumanList\obj\Debug\B_HumanList.Properties.Resources.resources
+H:\2021_CS\C#_Work\[2021] Second_Semester\B_13\B_HumanList\obj\Debug\B_HumanList.csproj.GenerateResource.cache
+H:\2021_CS\C#_Work\[2021] Second_Semester\B_13\B_HumanList\obj\Debug\B_HumanList.csproj.CoreCompileInputs.cache
+H:\2021_CS\C#_Work\[2021] Second_Semester\B_13\B_HumanList\obj\Debug\B_HumanList.exe
+H:\2021_CS\C#_Work\[2021] Second_Semester\B_13\B_HumanList\obj\Debug\B_HumanList.pdb
+H:\2021_CS\C#_Work\[2021] Second_Semester\B_13\B_HumanList\bin\Debug\B_HumanList.exe.manifest
+H:\2021_CS\C#_Work\[2021] Second_Semester\B_13\B_HumanList\bin\Debug\B_HumanList.application
+H:\2021_CS\C#_Work\[2021] Second_Semester\B_13\B_HumanList\obj\Debug\B_HumanList.exe.manifest
+H:\2021_CS\C#_Work\[2021] Second_Semester\B_13\B_HumanList\obj\Debug\B_HumanList.application

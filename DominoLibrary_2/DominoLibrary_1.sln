@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DominoLibrary", "DominoLibrary\DominoLibrary.csproj", "{EC7374FD-D712-4758-A24B-17D9E9C6CDBF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "setup", "DominoLibrary\setup\setup.vdproj", "{CCDD0363-8854-42DB-B238-9D58AEC78E02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC7374FD-D712-4758-A24B-17D9E9C6CDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7374FD-D712-4758-A24B-17D9E9C6CDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7374FD-D712-4758-A24B-17D9E9C6CDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7374FD-D712-4758-A24B-17D9E9C6CDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCDD0363-8854-42DB-B238-9D58AEC78E02}.Debug|Any CPU.ActiveCfg = Debug
+		{CCDD0363-8854-42DB-B238-9D58AEC78E02}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3CF81C7-CC31-4E72-80AC-494C501B5BCA}
+	EndGlobalSection
+EndGlobal
